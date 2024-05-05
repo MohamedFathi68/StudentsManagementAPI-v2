@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Programming 1"
+  },
+  {
+    "id": 2,
+    "name": "Programming 2"
+  },
+  {
+    "id": 3,
+    "name": "Data Structure"
+  },
+  {
+    "id": 4,
+    "name": "Operating System"
+  },
+  {
+    "id": 5,
+    "name": "Database"
+  },
+  {
+    "id": 6,
+    "name": "Computer Architecture"
+  },
+  {
+    "id": 7,
+    "name": "Software Engineering"
+  },
+  {
+    "id": 8,
+    "name": "Artificial Intelligence"
+  },
+  {
+    "id": 9,
+    "name": "Machine Learning"
+  },
+  {
+    "id": 10,
+    "name": "Deep Learning"
+  },
+  {
+    "id": 11,
+    "name": "Computer Graphics"
+  },
+  {
+    "id": 12,
+    "name": "Computer Network"
+  }
+]
